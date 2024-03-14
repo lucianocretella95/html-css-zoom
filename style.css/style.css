@@ -1,4 +1,53 @@
 *{
     margin: 0;
     box-sizing: border-box;
+    padding: 0;
 }
+
+body{
+    height: 100vh;
+}
+
+
+.speakers{
+    background-color: grey;
+    color: antiquewhite;
+    border-radius: 1rem;
+}
+
+nav{
+    display: flex;
+    justify-content:flex-end;
+    margin-bottom: 3rem;
+}
+
+.immagini{
+    display: flex;
+    justify-content: space-around;
+}
+
+.immagini2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.immagini3{
+    display: flex;
+    justify-content: space-around;
+}
+
+.immagini4{
+    display: flex;
+    justify-content: space-around;
+}
+
+main{
+    height: 100vh;
+}
+
+
+
+
+
+
+
